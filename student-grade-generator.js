@@ -1,9 +1,11 @@
+//this is the message that allows the user to input the marks of the student.
 const grade = prompt("Insert Your Marks:")
 studentGrade(grade)
 
 
 
 function studentGrade(){
+    //the else if enables assignation of grades to the marks
     
     if (grade>79 && grade<=100){
         yourGrade= 'A'
