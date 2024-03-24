@@ -30,7 +30,7 @@ So as to not get  decimals as our demeritpoints,we use Mathfloor, which rounds a
 
 If the demerit points exceed 12 points, the driver's license is suspended.
 
-### 3rd Challange:*net-salary-calculator*
+#### 3rd Challange:*net-salary-calculator*
 The major task of this program is to calculate an individual's Net Salary by collecting inputs of the user's basic salary and benefits.
 
 The program also calculates the tax, NHIF deductions and Nssf deductions.
