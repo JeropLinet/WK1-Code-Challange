@@ -3,7 +3,7 @@
 #### By *Kibet Linet Jerop*
 
 ## Description 
-#### *Student-Grade-Generator*
+#### 1st Challange:*Student-Grade-Generator*
 This program enables one to the generate  grades of a student basing from his/her marks.
 
 The marks are between 0 and 100,hence if there are any negative numbers or numbers above 100,the program would return a message stating that the grade is invalid.
@@ -19,7 +19,7 @@ E -      less 40.
 
 The Javascript file is connected to the HTML file for the purpose of prompting a user to input the Student's marks.
 
-#### *speed-Detector*
+#### 2nd Challange:*speed-Detector*
 In this program, the speed of a vehicle is measured.
 
 If the speed is less than 70Km/Hr, 'Ok',is printed. When the speed exceeds 70Km/Hr, which is the critical speed,the driver is given a demerit point.
@@ -30,7 +30,13 @@ So as to not get  decimals as our demeritpoints,we use Mathfloor, which rounds a
 
 If the demerit points exceed 12 points, the driver's license is suspended.
 
-### *net-salary-calculator*
+### 3rd Challange:*net-salary-calculator*
+The major task of this program is to calculate an individual's Net Salary by collecting inputs of the user's basic salary and benefits.
+
+The program also calculates the tax, NHIF deductions and Nssf deductions.
+
+To calculate the net salary, the NHIF deduction,NSSF Deduction and tax must be subtracted from the gross salary.
+
 
 ## Installation
 The program is made avail in GitHub for cloning.
